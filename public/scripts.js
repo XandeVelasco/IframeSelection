@@ -33,6 +33,34 @@ function TemaHachi(){
 
 //   GRIDS //
 
+function DataDriven_1(){
+    window.location.href = 'fullScreen.html';
+};
+
+function DataDriven_2(){
+    window.location.href = 'fullScreen.html';
+};
+
+function Educacao_1(){
+    window.location.href = 'fullScreen.html';
+};
+
+function Educacao_2(){
+    window.location.href = 'fullScreen.html';
+};
+
+function Educacao_3(){
+    window.location.href = 'fullScreen.html';
+};
+
+function Educacao_4(){
+    window.location.href = 'fullScreen.html';
+};
+
+function GridIchi(){
+    window.location.href = 'fullScreen.html';
+};
+
 function GridIchi(){
     window.location.href = 'fullScreen.html';
 };
