@@ -1,0 +1,218 @@
+@font-face {
+    font-family: newFont;
+    src: url("fonts/ObservatorioNacionalSans-Regular");
+  }
+
+*{
+    margin: 0;
+    width: 2160px;
+    height: 2160px;
+
+}
+
+body{
+    /* background-color: aqua; */
+    width: 2160px;
+    height: 2160px;
+    background-color: #241F49;
+    /* background-image: url("imgs/Tela_Entrada.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.corpo{
+    width: 100%;
+    height: 100%;
+    background-image: url("imgs/Tela_Entrada.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.corpoGrid{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    /* background-color: aquamarine; */
+    /* background-image: url("imgs/headerImage.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 494px;
+    text-align: center;
+    line-height: 250px;
+    font-size: 110px;
+    font-family: newFont;
+    color: white;
+    font-weight: bold;
+}
+
+.title{
+    /* background-color: aqua; */
+    width: 100%;
+    height: 424px;
+}
+
+.container{
+    /* background-color: white; */
+    width: calc(100% - 300px);
+    height: 1158px;
+    padding: 150px;
+    display:flex;
+    flex-wrap: wrap; /*generar rows*/
+    justify-content: space-evenly;
+}
+
+.container2{
+    /* background-color: white; */
+    position: absolute;
+    width: 2160px;
+    height: 1200px;
+    top: 600px;
+    display:flex;
+    flex-wrap: wrap; /*generar rows*/
+    justify-content: space-evenly;
+}
+
+.containerFullDataDriven{
+    position: absolute;
+    width: 2160px;
+    height: 2160px;
+    display:flex;
+    flex-wrap: wrap; /*generar rows*/
+    justify-content: space-evenly;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.blocks{
+    border-style: none;
+    background-color: transparent;
+    /* background-color: blue; */
+    width: 360px;
+    height: 360px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.blocksGrid{
+    border-style: none;
+    background-color: transparent;
+    width: 800px;
+    height: 450px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.blocksFull{
+    background-color: black;
+    width: 1800px;
+    height: 1125px;
+    margin: 650px auto;
+}
+
+.adjust{
+    z-index: 10;
+    background-color: rgb(65, 65, 65);
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    background-color: blueviolet;
+    width: 100%;
+    height: 216px;
+}
+
+/* Icons controlling buttons */
+#ichi {
+    background-image: url("imgs/datadriven.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 720px;
+}
+#ni {
+    background-image: url("imgs/trabalho.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1450px;
+    left: 680px;
+}
+#san {
+    background-image: url("imgs/futurodaindustria.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1450px;
+    left: 300px;
+}
+#yon {
+    background-image: url("imgs/tecnologiaeinovacao.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1080px;
+}
+#go {
+    background-image: url("imgs/macrosetorial.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1450px;
+    left: 1440px;
+}
+#roku {
+    background-image: url("imgs/saude.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1080px;
+    left: 500px;
+}
+#nana {
+    background-image: url("imgs/educacao.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1450px;
+    left: 1060px;
+}
+#hachi {
+    background-image: url("imgs/mulheresIcon.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1080px;
+    left: 1250px;
+}
+
+
+/* Buttons return */
+#return{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    left: 35px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_004.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
