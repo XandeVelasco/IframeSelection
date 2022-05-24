@@ -1,5 +1,5 @@
 function TemaIchi(){
-    window.location.href = 'gridDataDriven.html';
+    window.location.href = 'gridData.html';
 };
 
 function TemaNi(){
