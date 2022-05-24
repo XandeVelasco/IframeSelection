@@ -3,31 +3,31 @@ function TemaIchi(){
 };
 
 function TemaNi(){
-    alert("Ni was clicked.");
+     window.location.href = 'gridTrabalho.html';
 };
 
 function TemaSan(){
-    alert("San was clicked.");
+    window.location.href = 'gridIndustria.html';
 };
 
 function TemaYon(){
-    alert("Yon was clicked.");
+     window.location.href = 'gridTecnologia.html';
 };
 
 function TemaGo(){
-    alert("Go was clicked.");
+     window.location.href = 'gridMacrossetorial.html';
 };
 
 function TemaRoku(){
-    alert("Roku was clicked.");
+    window.location.href = 'gridSaude.html';
 };
 
 function TemaNana(){
-    alert("Nana was clicked.");
+     window.location.href = 'gridEducacao.html';
 };
 
 function TemaHachi(){
-    alert("Hachi was clicked.");
+     window.location.href = 'gridMulheres.html';
 };
 
 
