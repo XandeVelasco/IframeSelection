@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Frame</title>
+    <script src="scripts.js"></script>
+</head>
+
+<body>
+    <div style="background-image: url(imgs/01.jpg);" class="corpoGrid">
+        <button onclick="window.history.go(-1); return false;" id="return"></button>
+        <div class="container2">
+            <button onclick="GridIchi()" class="blocksGrid">
+                <iframe onclick="GridIchi()" class="adjust" title="Dash_Mapa_Dados_v2"
+                    src="https://app.powerbi.com/view?r=eyJrIjoiNWM0ZDc3N2MtYzkwYy00MGVhLWFiMWYtODA4ZWY1ODYzMWI4IiwidCI6IjZkNmJjYzNmLWJkYTEtNGY1NC1hZjFkLTg2ZDRiN2Q0ZTZiOCJ9"
+                    frameborder="0" allowFullScreen="false"></iframe>
+
+            </button>
+            <button onclick="TemaNi()" class="blocksGrid"></button>
+            <button onclick="TemaSan()" class="blocksGrid"></button>
+            <button onclick="TemaYon()" class="blocksGrid"></button>
+        </div>
+    </div>
+</body>
+
+</html>
