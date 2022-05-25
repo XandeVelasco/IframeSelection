@@ -485,3 +485,99 @@ footer{
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+#nextFullTecnologia{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_001.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#nextFullMulheres{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_005.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#nextFullIndustria{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_008.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#nextFullTrabalho{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_003.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#nextFullEducacao{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_004.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#nextFullMacro{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_002.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
