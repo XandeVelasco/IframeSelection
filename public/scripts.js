@@ -36,6 +36,10 @@ function GoToNextGo(){
     window.location.href = 'gridMacrossetorial2.html';
 }
 
+function GoToNextGo2(){
+    window.location.href = 'gridMacrossetorial3.html';
+}
+
 function GoToNexthACHI(){
     window.location.href = 'gridMulheres2.html';
 }
@@ -52,6 +56,13 @@ function GoToNextNi(){
     window.location.href = 'gridTrabalho2.html';
 }
 
+function GoToNextSan(){
+    window.location.href = 'gridIndustria2.html';
+}
+
+function GoToNextSan2(){
+    window.location.href = 'gridIndustria3.html';
+}
 //   GRIDS //
 
 function DataDriven_1(){
