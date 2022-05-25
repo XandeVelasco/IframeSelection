@@ -11,10 +11,13 @@
 </head>
 
 <body>
-        <div style="background-image: url(imgs/01.jpg);" class="containerFullDataDriven">
-            <div class="blocksFull">
-                <iframe class="adjust" title="Dash_Mapa_Dados_v2" src="https://app.powerbi.com/view?r=eyJrIjoiNWM0ZDc3N2MtYzkwYy00MGVhLWFiMWYtODA4ZWY1ODYzMWI4IiwidCI6IjZkNmJjYzNmLWJkYTEtNGY1NC1hZjFkLTg2ZDRiN2Q0ZTZiOCJ9" frameborder="0" allowFullScreen="true"></iframe>
-            </div>
+    <div style="background-image: url(imgs/01.jpg);" class="containerFullDataDriven">
+        <button onclick="GoToNextFullData()" id="nextFullData"></button>
+        <div class="blocksFull">
+            <iframe class="adjust" title="Dash_Mapa_Dados_v2"
+                src="https://app.powerbi.com/view?r=eyJrIjoiNWM0ZDc3N2MtYzkwYy00MGVhLWFiMWYtODA4ZWY1ODYzMWI4IiwidCI6IjZkNmJjYzNmLWJkYTEtNGY1NC1hZjFkLTg2ZDRiN2Q0ZTZiOCJ9"
+                frameborder="0" allowFullScreen="true"></iframe>
+        </div>
         <button onclick="window.history.go(-1); return false;" id="return_1"></button>
         <button onclick="GoToMenu()" class="menuBackFull"></button>
     </div>
