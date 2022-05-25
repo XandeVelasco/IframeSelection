@@ -30,6 +30,15 @@ function TemaHachi(){
      window.location.href = 'gridMulheres.html';
 };
 
+// Grid next page
+
+function GoToNextGo(){
+    window.location.href = 'gridMacrossetorial2.html';
+}
+
+function GoToNexthACHI(){
+    window.location.href = 'gridMulheres2.html';
+}
 
 //   GRIDS //
 

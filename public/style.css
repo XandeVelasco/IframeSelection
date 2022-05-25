@@ -369,3 +369,37 @@ footer{
     top: 1820px;
     left: 150px;
 }
+
+/* next arrows */
+
+#next_2{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    right: 35px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_002.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#next_8{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    right: 35px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_005.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
