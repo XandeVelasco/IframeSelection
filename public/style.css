@@ -81,9 +81,10 @@ header{
     height: 1200px;
     display:flex;
     flex-wrap: wrap; /*generar rows*/
-    justify-content: space-evenly;
+    justify-content: center;
     position: absolute;
     top: 630px;
+    /* padding: 30px; */
 }
 
 .containerFullDataDriven{
@@ -111,8 +112,8 @@ header{
     position: relative;
     border-style: none;
     background-color: transparent;
-    width: 800px;
-    height: 450px;
+    width: 880px;
+    height: 495px;
     border-radius: 5px;
     margin: 30px;
 }
