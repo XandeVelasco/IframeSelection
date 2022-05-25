@@ -209,3 +209,38 @@ function Voltar(){
 function GoToMenu(){
     window.location.href = 'index.html';
 }
+
+// Next buttons for full Screen section
+
+// Data
+function GoToNextFullData0(){
+    window.location.href = 'datadriven_2.html';
+}
+
+function GoToNextFullData(){
+    window.location.href = 'datadriven_2.html';
+}
+
+
+
+// Saude
+function GoToNextFullSaude0(){
+    window.location.href = 'saude_1.html';
+}
+function GoToNextFullSaude(){
+    window.location.href = 'saude_2.html';
+}
+function GoToNextFullSaude2(){
+    window.location.href = 'saude_3.html';
+}
+function GoToNextFullSaude3(){
+    window.location.href = 'saude_4.html';
+}
+
+// Tecnologia
+function GoToNextFullTecnologia0(){
+    window.location.href = 'tecnologia_1.html';
+}
+function GoToNextFullTecnologia(){
+    window.location.href = 'tecnologia_2.html';
+}

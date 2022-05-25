@@ -451,3 +451,37 @@ footer{
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+/* Next buttons for full Screen section */
+
+#nextFullData{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_001.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#nextFullSaude{
+    z-index: 999;
+    border-style: none;
+    background-color: transparent;
+    position: absolute;
+    transform: scale(-1);
+    left: 1980px;
+    top: 1080px;
+    width: 150px;
+    height: 150px;
+    /* background-color: black; */
+    background-image: url("imgs/SETA_006.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
