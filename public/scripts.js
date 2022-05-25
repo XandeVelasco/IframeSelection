@@ -40,6 +40,18 @@ function GoToNexthACHI(){
     window.location.href = 'gridMulheres2.html';
 }
 
+function GoToNextYon(){
+    window.location.href = 'gridTecnologia2.html';
+}
+
+function GoToNextYon2(){
+    window.location.href = 'gridTecnologia3.html';
+}
+
+function GoToNextNi(){
+    window.location.href = 'gridTrabalho2.html';
+}
+
 //   GRIDS //
 
 function DataDriven_1(){
