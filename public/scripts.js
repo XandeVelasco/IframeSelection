@@ -173,3 +173,7 @@ function Industria_4(){
 function Voltar(){
     
 };
+
+function GoToMenu(){
+    window.location.href = 'index.html';
+}

@@ -346,3 +346,26 @@ footer{
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+
+.menuBack{
+    width: 230px;
+    border-style: none;
+    height: 230px;
+    background-color: transparent;
+    border-radius: 50%;
+    position: absolute;
+    top: 1185px;
+    left: 150px;
+}
+
+.menuBackFull{
+    width: 230px;
+    border-style: none;
+    height: 230px;
+    background-color: transparent;
+    border-radius: 50%;
+    position: absolute;
+    top: 1820px;
+    left: 150px;
+}
