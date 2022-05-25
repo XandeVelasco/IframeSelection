@@ -214,7 +214,7 @@ function GoToMenu(){
 
 // Data
 function GoToNextFullData0(){
-    window.location.href = 'datadriven_2.html';
+    window.location.href = 'datadriven_1.html';
 }
 
 function GoToNextFullData(){
@@ -342,4 +342,47 @@ function GoToNextFullTrabalho6(){
 }
 function GoToNextFullTrabalho7(){
     window.location.href = 'trabalho_8.html';
+}
+
+// Educacao
+function GoToNextFullEducacao0(){
+    window.location.href = 'educacao_1.html';
+}
+function GoToNextFullEducacao(){
+    window.location.href = 'educacao_2.html';
+}
+function GoToNextFullEducacao2(){
+    window.location.href = 'educacao_3.html';
+}
+function GoToNextFullEducacao3(){
+    window.location.href = 'educacao_4.html';
+}
+
+// Macro
+function GoToNextFullMacro0(){
+    window.location.href = 'macrossetorial_1.html';
+}
+function GoToNextFullMacro(){
+    window.location.href = 'macrossetorial_2.html';
+}
+function GoToNextFullMacro2(){
+    window.location.href = 'macrossetorial_3.html';
+}
+function GoToNextFullMacro3(){
+    window.location.href = 'macrossetorial_4.html';
+}
+function GoToNextFullMacro4(){
+    window.location.href = 'macrossetorial_5.html';
+}
+function GoToNextFullMacro5(){
+    window.location.href = 'macrossetorial_6.html';
+}
+function GoToNextFullMacro6(){
+    window.location.href = 'macrossetorial_7.html';
+}
+function GoToNextFullMacro7(){
+    window.location.href = 'macrossetorial_8.html';
+}
+function GoToNextFullMacro8(){
+    window.location.href = 'macrossetorial_9.html';
 }
