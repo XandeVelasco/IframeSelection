@@ -244,3 +244,102 @@ function GoToNextFullTecnologia0(){
 function GoToNextFullTecnologia(){
     window.location.href = 'tecnologia_2.html';
 }
+function GoToNextFullTecnologia2(){
+    window.location.href = 'tecnologia_3.html';
+}
+function GoToNextFullTecnologia3(){
+    window.location.href = 'tecnologia_4.html';
+}
+function GoToNextFullTecnologia4(){
+    window.location.href = 'tecnologia_5.html';
+}
+function GoToNextFullTecnologia5(){
+    window.location.href = 'tecnologia_6.html';
+}
+function GoToNextFullTecnologia6(){
+    window.location.href = 'tecnologia_7.html';
+}
+function GoToNextFullTecnologia7(){
+    window.location.href = 'tecnologia_8.html';
+}
+function GoToNextFullTecnologia8(){
+    window.location.href = 'tecnologia_9.html';
+}
+
+// Mulheres
+function GoToNextFullMulheres0(){
+    window.location.href = 'mulheres_1.html';
+}
+function GoToNextFullMulheres(){
+    window.location.href = 'mulheres_2.html';
+}
+function GoToNextFullMulheres2(){
+    window.location.href = 'mulheres_3.html';
+}
+function GoToNextFullMulheres3(){
+    window.location.href = 'mulheres_4.html';
+}
+function GoToNextFullMulheres4(){
+    window.location.href = 'mulheres_5.html';
+}
+function GoToNextFullMulheres5(){
+    window.location.href = 'mulheres_6.html';
+}
+function GoToNextFullMulheres6(){
+    window.location.href = 'mulheres_7.html';
+}
+
+// Industria
+function GoToNextFullIndustria0(){
+    window.location.href = 'industria_1.html';
+}
+function GoToNextFullIndustria(){
+    window.location.href = 'industria_2.html';
+}
+function GoToNextFullIndustria2(){
+    window.location.href = 'industria_3.html';
+}
+function GoToNextFullIndustria3(){
+    window.location.href = 'industria_4.html';
+}
+function GoToNextFullIndustria4(){
+    window.location.href = 'industria_5.html';
+}
+function GoToNextFullIndustria5(){
+    window.location.href = 'industria_6.html';
+}
+function GoToNextFullIndustria6(){
+    window.location.href = 'industria_7.html';
+}
+function GoToNextFullIndustria7(){
+    window.location.href = 'industria_8.html';
+}
+function GoToNextFullIndustria8(){
+    window.location.href = 'industria_9.html';
+}
+
+// Trabalho
+function GoToNextFullTrabalho0(){
+    window.location.href = 'trabalho_1.html';
+}
+function GoToNextFullTrabalho(){
+    window.location.href = 'trabalho_2.html';
+}
+function GoToNextFullTrabalho2(){
+    window.location.href = 'trabalho_3.html';
+}
+function GoToNextFullTrabalho3(){
+    window.location.href = 'trabalho_4.html';
+}
+function GoToNextFullTrabalho4(){
+    window.location.href = 'trabalho_5.html';
+}
+function GoToNextFullTrabalho5(){
+    window.location.href = 'trabalho_6.html';
+}
+function GoToNextFullTrabalho6(){
+    window.location.href = 'trabalho_7.html';
+}
+function GoToNextFullTrabalho7(){
+    window.location.href = 'trabalho_8.html';
+}
