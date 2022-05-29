@@ -474,3 +474,10 @@ function GoToNextFullMacro7(){
 function GoToNextFullMacro8(){
     window.location.href = 'macrossetorial_9.html';
 }
+
+// Go to grids
+
+//Data
+function GoToGridData1(){
+    window.location.href = 'gridData.html';
+}
