@@ -55,6 +55,12 @@ function GoToNextYon2(){
 function GoToNextNi(){
     window.location.href = 'gridTrabalho2.html';
 }
+function GoToNextNi2(){
+    window.location.href = 'gridTrabalho3.html';
+}
+function GoToNextNi3(){
+    window.location.href = 'gridTrabalho4.html';
+}
 
 function GoToNextSan(){
     window.location.href = 'gridIndustria2.html';
@@ -62,6 +68,10 @@ function GoToNextSan(){
 
 function GoToNextSan2(){
     window.location.href = 'gridIndustria3.html';
+}
+
+function GoToNextNana(){
+    window.location.href = 'gridEducacao2.html';
 }
 //   GRIDS //
 
@@ -89,6 +99,10 @@ function Educacao_3(){
 
 function Educacao_4(){
     window.location.href = 'educacao_4.html';
+};
+
+function Educacao_5(){
+    window.location.href = 'educacao_5.html';
 };
 
 // mulheres //
@@ -210,6 +224,27 @@ function Trabalho_7(){
 function Trabalho_8(){
     window.location.href = 'trabalho_8.html';
 };
+function Trabalho_9(){
+    window.location.href = 'trabalho_9.html';
+};
+function Trabalho_10(){
+    window.location.href = 'trabalho_10.html';
+};
+function Trabalho_11(){
+    window.location.href = 'trabalho_11.html';
+};
+function Trabalho_12(){
+    window.location.href = 'trabalho_12.html';
+};
+function Trabalho_13(){
+    window.location.href = 'trabalho_13.html';
+};
+function Trabalho_14(){
+    window.location.href = 'trabalho_14.html';
+};
+function Trabalho_15(){
+    window.location.href = 'trabalho_15.html';
+};
 
 // macrossetoria //
 
@@ -302,7 +337,7 @@ function GoToMenu(){
 
 // Data
 function GoToNextFullData0(){
-    window.location.href = 'datadriven_.html';
+    window.location.href = 'datadriven_1.html';
 }
 
 function GoToNextFullData(){
@@ -431,6 +466,27 @@ function GoToNextFullTrabalho6(){
 function GoToNextFullTrabalho7(){
     window.location.href = 'trabalho_8.html';
 }
+function GoToNextFullTrabalho8(){
+    window.location.href = 'trabalho_9.html';
+}
+function GoToNextFullTrabalho9(){
+    window.location.href = 'trabalho_10.html';
+}
+function GoToNextFullTrabalho10(){
+    window.location.href = 'trabalho_11.html';
+}
+function GoToNextFullTrabalho11(){
+    window.location.href = 'trabalho_12.html';
+}
+function GoToNextFullTrabalho12(){
+    window.location.href = 'trabalho_13.html';
+}
+function GoToNextFullTrabalho13(){
+    window.location.href = 'trabalho_14.html';
+}
+function GoToNextFullTrabalho14(){
+    window.location.href = 'trabalho_15.html';
+}
 
 // Educacao
 function GoToNextFullEducacao0(){
@@ -444,6 +500,9 @@ function GoToNextFullEducacao2(){
 }
 function GoToNextFullEducacao3(){
     window.location.href = 'educacao_4.html';
+}
+function GoToNextFullEducacao4(){
+    window.location.href = 'educacao_5.html';
 }
 
 // Macro
@@ -481,3 +540,67 @@ function GoToNextFullMacro8(){
 function GoToGridData1(){
     window.location.href = 'gridData.html';
 }
+
+//Educação
+function GoToGridEducacao1(){
+    window.location.href = 'gridEducacao.html';
+}
+function GoToGridEducacao2(){
+    window.location.href = 'gridEducacao2.html';
+}
+//Industria
+function GoToGridIndustria1(){
+    window.location.href = 'gridIndustria.html';
+}
+function GoToGridIndustria2(){
+    window.location.href = 'gridIndustria2.html';
+}
+function GoToGridIndustria3(){
+    window.location.href = 'gridIndustria3.html';
+}
+//Macrossetorial
+function GoToGridMacro1(){
+    window.location.href = 'gridMacrossetorial.html';
+}
+function GoToGridMacro2(){
+    window.location.href = 'gridMacrossetorial2.html';
+}
+function GoToGridMacro3(){
+    window.location.href = 'gridMacrossetorial3.html';
+}
+//Mulheres
+function GoToGridMulher1(){
+    window.location.href = 'gridMulheres.html';
+}
+function GoToGridMulher2(){
+    window.location.href = 'gridMulheres2.html';
+}
+//Saude
+function GoToGridSaude1(){
+    window.location.href = 'gridSaude.html';
+}
+//Tecnologia
+function GoToGridTecnologia1(){
+    window.location.href = 'gridTecnologia.html';
+}
+function GoToGridTecnologia2(){
+    window.location.href = 'gridTecnologia2.html';
+}
+function GoToGridTecnologia3(){
+    window.location.href = 'gridTecnologia3.html';
+}
+//Trabalho
+function GoToGridTrabalho1(){
+    window.location.href = 'gridTrabalho.html';
+}
+function GoToGridTrabalho2(){
+    window.location.href = 'gridTrabalho2.html';
+}
+function GoToGridTrabalho3(){
+    window.location.href = 'gridTrabalho3.html';
+}
+function GoToGridTrabalho4(){
+    window.location.href = 'gridTrabalho4.html';
+}
+
+// Navegtação entre os grids
