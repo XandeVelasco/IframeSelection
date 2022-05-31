@@ -30,6 +30,10 @@ function TemaHachi(){
      window.location.href = 'gridMulheres.html';
 };
 
+function TemaKyu(){
+    window.location.href = 'temas.html';
+};
+
 // Grid next page
 
 function GoToNextGo(){
