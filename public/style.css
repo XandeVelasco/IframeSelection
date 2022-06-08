@@ -108,6 +108,16 @@ header{
     margin: 30px;
 }
 
+.blocks1{
+    border-style: none;
+    background-color: transparent;
+    /* background-color: blue; */
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
 .blocksGrid{
     position: relative;
     border-style: none;
@@ -153,7 +163,7 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1450px;
+    top: 1400px;
     left: 680px;
 }
 #san {
@@ -162,7 +172,7 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1450px;
+    top: 1400px;
     left: 300px;
 }
 #yon {
@@ -171,7 +181,8 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1080px;
+    top: 1030px;
+    left: 1060px;
 }
 #go {
     background-image: url("imgs/macrosetorial.png") !important;
@@ -179,7 +190,7 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1450px;
+    top: 1400px;
     left: 1440px;
 }
 #roku {
@@ -188,8 +199,8 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1080px;
-    left: 500px;
+    top: 1030px;
+    left: 680px;
 }
 #nana {
     background-image: url("imgs/educacao.png") !important;
@@ -197,7 +208,7 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1450px;
+    top: 1400px;
     left: 1060px;
 }
 #hachi {
@@ -206,8 +217,25 @@ footer{
     background-position: center; 
     background-size: cover;
     position: absolute;
-    top: 1080px;
-    left: 1250px;
+    top: 1230px;
+}
+
+#kyu {
+    background-image: url("imgs/NewImages/ICONE_TEMA.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 1730px;
+}
+
+#juu {
+    background-image: url("imgs/NewImages/BOTAO_MENU_TEMA.png") !important;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    position: absolute;
+    top: 750px;
 }
 
 

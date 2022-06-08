@@ -30,6 +30,10 @@ function TemaHachi(){
      window.location.href = 'gridMulheres.html';
 };
 
+function TemaKyu(){
+    window.location.href = 'temas.html';
+};
+
 // Grid next page
 
 function GoToNextGo(){
@@ -70,6 +74,16 @@ function GoToNextSan2(){
     window.location.href = 'gridIndustria3.html';
 }
 
+function GoToNextSan3(){
+    window.location.href = 'gridIndustria4.html';
+}
+
+function GoToNextSan4(){
+    window.location.href = 'gridIndustria4.html';
+}
+function GoToNextSan5(){
+    window.location.href = 'gridIndustria5.html';
+}
 function GoToNextNana(){
     window.location.href = 'gridEducacao2.html';
 }
@@ -322,6 +336,37 @@ function Industria_9(){
     window.location.href = 'industria_9.html';
 };
 
+function Industria_10(){
+    window.location.href = 'industria_10.html';
+};
+
+function Industria_11(){
+    window.location.href = 'industria_11.html';
+};
+
+function Industria_12(){
+    window.location.href = 'industria_12.html';
+};
+
+function Industria_13(){
+    window.location.href = 'industria_13.html';
+};
+
+function Industria_14(){
+    window.location.href = 'industria_14.html';
+};
+
+function Industria_15(){
+    window.location.href = 'industria_15.html';
+};
+
+function Industria_16(){
+    window.location.href = 'industria_16.html';
+};
+
+function Industria_17(){
+    window.location.href = 'industria_17.html';
+};
 
 
 //voltar function
@@ -441,6 +486,37 @@ function GoToNextFullIndustria8(){
     window.location.href = 'industria_9.html';
 }
 
+function GoToNextFullIndustria9(){
+    window.location.href = 'industria_10.html';
+}
+
+function GoToNextFullIndustria10(){
+    window.location.href = 'industria_11.html';
+}
+
+function GoToNextFullIndustria11(){
+    window.location.href = 'industria_12.html';
+}
+
+function GoToNextFullIndustria12(){
+    window.location.href = 'industria_13.html';
+}
+
+function GoToNextFullIndustria13(){
+    window.location.href = 'industria_14.html';
+}
+
+function GoToNextFullIndustria14(){
+    window.location.href = 'industria_15.html';
+}
+
+function GoToNextFullIndustria15(){
+    window.location.href = 'industria_16.html';
+}
+
+function GoToNextFullIndustria16(){
+    window.location.href = 'industria_17.html';
+}
 // Trabalho
 function GoToNextFullTrabalho0(){
     window.location.href = 'trabalho_1.html';
@@ -557,6 +633,12 @@ function GoToGridIndustria2(){
 }
 function GoToGridIndustria3(){
     window.location.href = 'gridIndustria3.html';
+}
+function GoToGridIndustria4(){
+    window.location.href = 'gridIndustria4.html';
+}
+function GoToGridIndustria5(){
+    window.location.href = 'gridIndustria5.html';
 }
 //Macrossetorial
 function GoToGridMacro1(){
